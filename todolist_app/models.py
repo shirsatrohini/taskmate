@@ -1,5 +1,3 @@
-from pyexpat import model
-from turtle import done
 from django.db import models
 from django.contrib.auth.models import User
 
