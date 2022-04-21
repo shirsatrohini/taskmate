@@ -1,1 +1,1 @@
-web: gunicorn firstDjango.wsgi:application --log-file -
+web: gunicorn taskmate.wsgi --log-file -
