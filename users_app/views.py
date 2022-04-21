@@ -1,5 +1,4 @@
 from django.shortcuts import redirect, render
-from django.http import HttpResponse
 from .forms import CustomRegisterForm
 from django.contrib import messages
 # Create your views here.
